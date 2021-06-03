@@ -1,7 +1,7 @@
 const { Model, DataTypes } = require('sequelize');
 const sequelize = require('../config/connection');
 
-class Project extends Model {}
+class SavedNews extends Model {}
 
 SavedNews.init(
   {
@@ -18,8 +18,6 @@ SavedNews.init(
     title:{
       type: DataTypes.STRING,
       allowNull: false,
-     
-
     },
     cityNames:{
       type: DataTypes.STRING,
