@@ -30,7 +30,7 @@ async function fetchArticles(event) {
   
 	
 	
-	const response = await fetch('https://newsapi.org/v2/everything?apiKey=29456d339c27420da1a26b28c5635f4b' + '&q=' + searchfieldEl.val(), {
+	const response = await fetch('http://newsapi.org/v2/everything?apiKey=29456d339c27420da1a26b28c5635f4b' + '&q=' + searchfieldEl.val(), {
 		method: 'GET'
 		
 	  })
