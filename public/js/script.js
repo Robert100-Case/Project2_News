@@ -26,7 +26,7 @@ async function fetchArticles(event) {
 	console.log('First Name:', searchfieldEl.val());
   
 	// Clear input fields
-	$('input[type="text"]').val('');
+//	$('input[type="text"]').val('');
   
 	
 	
