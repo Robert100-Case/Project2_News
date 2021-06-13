@@ -4,3 +4,5 @@ This program searches for news for a particuler topic using rapidapi api. It gat
 to the users account, which is created at login.
 ## Contributions
 This program was made by Bob Rossman, Ryan Mann and Thomas Kuntz
+## License 
+MIT
