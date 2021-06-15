@@ -9,4 +9,4 @@ Sequelize, Handlebars, Express, API's
 This program was made by Bob Rossman, Ryan Mann and Thomas Kuntz
 ## License 
 MIT
-<img src="searchNews.png" /img>
+<img src="searchNews.png">
