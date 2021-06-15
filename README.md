@@ -9,4 +9,7 @@ Sequelize, Handlebars, Express, API's
 This program was made by Bob Rossman, Ryan Mann and Thomas Kuntz
 ## License 
 MIT
+
+## Deployed App
+https://warm-mesa-14576.herokuapp.com
 <img src="searchNews.png">
